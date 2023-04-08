@@ -27,8 +27,8 @@ SOCIAL_MEDIA = {
 PROJECTS = {
     "🏆 Digital CV -- Digital Resume using Python & Streamlit": "https://github.com/aazim-github/aazim-digital-resume",
     "🏆 Digital Portfolio -- Digital Portfolio using JavaScript": "https://github.com/aazim-github/aazim-portfolio",
+    "🏆 go-serverless-aws -- Serverless stack using Golang, API Gateway, Lambda & DynamoDB": "https://github.com/aazim-github/go-serverless-aws",
     "🏆 go-email-checker-tool -- Email Checker tool using Golang": "https://github.com/aazim-github/email-checker-tool",
-    "🏆 go-fiber-mongo-hrms -- Human Resource Management System using Golang": "https://github.com/aazim-github/go-fiber-mongo-hrms",
     "🏆 go-movies-crud -- Movies project with CRUD operations using Golang": "https://github.com/aazim-github/go-movies-crud",
     "🏆 go-slack-age-bot -- Age Bot integrated with Slack using Golang": "https://github.com/aazim-github/slack-age-bot",
     "🏆 go-slack-file-bot -- File Upload Bot integrated with Slack using Golang": "https://github.com/aazim-github/slack-file-bot",
